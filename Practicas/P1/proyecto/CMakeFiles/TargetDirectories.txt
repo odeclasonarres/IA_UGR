@@ -1,0 +1,9 @@
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/BelkanSG.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/Belkan.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/rebuild_cache.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/motorLib.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/obj3DLib.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/edit_cache.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/GLUILib.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/modelosBelkanLib.dir
+/home/odeclas/Documents/IA/2.Practicas/P1/proyecto/CMakeFiles/comportamientosLib.dir
